@@ -7,7 +7,7 @@
             </div>
             <div class="col">
                 <div class="header">
-                    <h1>Welcome to To Do</h1>
+                    <h1>Welcome to ToDo - Bot</h1>
                 </div>
                 <div class="content">
                     <p></p>

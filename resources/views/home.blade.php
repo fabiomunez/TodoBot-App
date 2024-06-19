@@ -45,7 +45,7 @@
 <script>
     var botmanWidget = {
         aboutText: 'Start the conversation with Hi',
-        introMessage: "WELCOME TO ALL ABOUT LARAVEL",
+        introMessage: "WELCOME {{ strtoupper(Auth::user()->name) }}",
         title: "To Do ChatBot"
     };
 </script>
